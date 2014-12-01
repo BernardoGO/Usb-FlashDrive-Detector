@@ -1,0 +1,11 @@
+C:\Bernardo\Projetos\C#\1 - Librarys\USB Flash Detector a\Usb Flash Detector\Usb Flash Detector\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Bernardo\Projetos\C#\1 - Librarys\USB Flash Detector a\Usb Flash Detector\Usb Flash Detector\obj\x86\Debug\Usb_Flash_Detector.Properties.Resources.resources
+C:\Bernardo\Projetos\C#\1 - Librarys\USB Flash Detector a\Usb Flash Detector\Usb Flash Detector\obj\x86\Debug\ResGen.read.1.tlog
+C:\Bernardo\Projetos\C#\1 - Librarys\USB Flash Detector a\Usb Flash Detector\Usb Flash Detector\obj\x86\Debug\ResGen.write.1.tlog
+C:\Bernardo\Projetos\C#\1 - Librarys\USB Flash Detector a\Usb Flash Detector\Usb Flash Detector\bin\Debug\Usb Flash Detector.exe
+C:\Bernardo\Projetos\C#\1 - Librarys\USB Flash Detector a\Usb Flash Detector\Usb Flash Detector\bin\Debug\Usb Flash Detector.pdb
+C:\Bernardo\Projetos\C#\1 - Librarys\USB Flash Detector a\Usb Flash Detector\Usb Flash Detector\obj\x86\Debug\Usb_Flash_Detector.Form1.resources
+C:\Bernardo\Projetos\C#\1 - Librarys\USB Flash Detector a\Usb Flash Detector\Usb Flash Detector\obj\x86\Debug\Usb Flash Detector.exe
+C:\Bernardo\Projetos\C#\1 - Librarys\USB Flash Detector a\Usb Flash Detector\Usb Flash Detector\obj\x86\Debug\Usb Flash Detector.pdb
+C:\Bernardo\Projetos\C#\1 - Librarys\USB Flash Detector\Usb Flash Detector\Usb Flash Detector\obj\x86\Debug\Usb Flash Detector.exe
+C:\Bernardo\Projetos\C#\1 - Librarys\USB Flash Detector\Usb Flash Detector\Usb Flash Detector\obj\x86\Debug\Usb Flash Detector.pdb
