@@ -1,0 +1,7 @@
+C:\Bernardo\Projetos\C#\1 - Librarys\StringFormat Teste\StringFormat Teste\StringFormat Teste\bin\Debug\StringFormat Teste.exe
+C:\Bernardo\Projetos\C#\1 - Librarys\StringFormat Teste\StringFormat Teste\StringFormat Teste\bin\Debug\StringFormat Teste.pdb
+C:\Bernardo\Projetos\C#\1 - Librarys\StringFormat Teste\StringFormat Teste\StringFormat Teste\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Bernardo\Projetos\C#\1 - Librarys\StringFormat Teste\StringFormat Teste\StringFormat Teste\obj\x86\Debug\StringFormat Teste.exe
+C:\Bernardo\Projetos\C#\1 - Librarys\StringFormat Teste\StringFormat Teste\StringFormat Teste\obj\x86\Debug\StringFormat Teste.pdb
+C:\Bernardo\Projetos\C#\1 - Librarys\String Format\StringFormat Teste\StringFormat Teste\obj\x86\Debug\StringFormat Teste.exe
+C:\Bernardo\Projetos\C#\1 - Librarys\String Format\StringFormat Teste\StringFormat Teste\obj\x86\Debug\StringFormat Teste.pdb
